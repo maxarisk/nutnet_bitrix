@@ -1,0 +1,54 @@
+
+
+/* Start:/local/components/maxim/form/templates/.default/style.css?1716200972604*/
+.form_body {
+	padding: 10px 30px;
+	margin-bottom: 20px;
+	display: flex;
+	flex-direction: column;
+	position: relative;
+}
+
+.form_header {
+	margin-bottom: 40px;
+}
+
+.form_response {
+	position: absolute;
+	top: 50px;
+}
+
+.form_response.error {
+	color: #FF9800;
+}
+
+.form_feedback {
+	display: flex;
+	flex-direction: column;
+	gap: 30px;
+}
+
+.form_header {
+	text-align: center;
+	font-weight: bold;
+	font-size: 1.5rem;
+}
+
+.form_inputs {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+}
+
+.form_input {
+	padding: 10px;
+}
+
+.form_submit {
+	padding: 5px 10px;
+	max-width: 150px;
+	align-self: center;
+	border: none;
+}
+/* End */
+/* /local/components/maxim/form/templates/.default/style.css?1716200972604 */

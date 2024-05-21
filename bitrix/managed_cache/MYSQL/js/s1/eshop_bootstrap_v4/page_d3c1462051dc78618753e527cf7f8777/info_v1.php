@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/local/components/maxim/form/templates/.default/script.js" => "1716201479753",]; ?>
